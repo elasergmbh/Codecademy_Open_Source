@@ -9,14 +9,14 @@ Create a Test Repository for Codecademy Open Source course
 
 Before ~~strikethrough text~~ after
 
-# Linking to issues and pull requests on GitHub within a repository with a hashtag before their number:
+**Linking to issues and pull requests on GitHub within a repository with a hashtag before their number:**
 #123
 
-# Task list items, which are checklists that use - [ ] to indicate unchecked items and - [x] to indicate checked items:
+**Task list items, which are checklists that use - [ ] to indicate unchecked items and - [x] to indicate checked items:**
 - [ ] Unchecked
 - [x] Checked
 
-# Tables specified using | and - characters to draw rows and columns:
+**Tables specified using | and - characters to draw rows and columns:**
 
 | foo | bar |
 | --- | --- |
